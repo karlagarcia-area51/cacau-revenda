@@ -24,7 +24,7 @@ const Index = () => {
             className="mb-8"
           >
             <h1 className="text-3xl md:text-5xl font-display font-bold text-foreground leading-tight">
-              Venda Direta <span className="gradient-text">Cacau Show22</span>
+              Venda Direta <span className="gradient-text">Cacau Show</span>
             </h1>
             <p className="section-subtitle mt-3">
               Plano Estratégico de Recrutamento de Revendedores — Versão 2.0 com dados reais de 397.8K revendedoras
