@@ -9,6 +9,7 @@ const sections = [
   { id: "geo", label: "Geográfico" },
   { id: "strategy", label: "Estratégia" },
   { id: "pilot", label: "Piloto 90d" },
+  { id: "funnel", label: "Escala" },
 ];
 
 export default function DashboardNav() {
